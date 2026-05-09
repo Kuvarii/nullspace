@@ -7,5 +7,7 @@ Before you try and mess around with anything, know that I am scuffed programmer,
 RIGHT NOW THE REPOSITORY IS EMPTY
 
 
-Have you ever wanted to switch off of Discord, but the alternatives are all too terrible to even fathom considering? Well, I know I have, thus I decided to start creating my own.
+Have you ever wanted to switch off of Discord, but the alternatives are all too terrible to even fathom considering? Well, I know I have, thus I* decided to start creating my own.
 Every server is self-hosted, every client can have endless users logged in at once (for multiaccounters like myself), servers can set up 3D environments for their members, clients (with valid permissions) can upload objects and their personal avatar to the environment, all while never sending any information to a central server or outside service (all data is contained solely on self-hosted servers and each client's client).
+
+*I, being me (Kuvarii) and Kizo.
